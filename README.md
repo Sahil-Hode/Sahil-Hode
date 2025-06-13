@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sahil-hode.github.io/Portfolio/](https://sahil-hode.github.io/Portfolio/)
 
-- 💬 Ask me about **Python, MySQL, Django, HTMl/CSS**
+- 💬 Ask me about **Python, MySQL, Django, HTML/CSS**
 
 - 📫 How to reach me **sahilhode67@gmail.com**
 
